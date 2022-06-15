@@ -51,7 +51,6 @@ if __name__ == '__main__':
                     if c.isnumeric():
                         print(c, end='')
 
-                # print() # newline
                 print(' ', str(args.n))
         
         elif args.a:
