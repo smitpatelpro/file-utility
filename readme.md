@@ -6,6 +6,7 @@ it is a python3 based utility to get summary or specific characters from input f
     python utility.py [-h] [-l filename | -c filename | -w filename | -n filename | -a filename]
 
 **Arguments**
+
 `-h, --help`   show this help message and exit
 
 `-l` filename  Display number of lines present in input file
