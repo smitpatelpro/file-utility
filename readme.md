@@ -27,3 +27,4 @@ consider file `file.txt` with following contents
     !@#$ symbols
     127
 **Utility output for above file**
+![enter image description here](https://raw.githubusercontent.com/smitpatelpro/file-utility/master/screenshot.png)
