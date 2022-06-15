@@ -7,10 +7,15 @@ it is a python3 based utility to get summary or specific characters from input f
 
 **Arguments**
 `-h, --help`   show this help message and exit
+
 `-l` filename  Display number of lines present in input file
+
 `-c` filename  Display number of character present in input file
+
 `-w` filename  Display number of words in a input file
+
 `-n` filename  Display only numeric value in input file
+
 `-a` filename  Display only alphabets in input file
 
 **NOTE: Please run with python 3**
