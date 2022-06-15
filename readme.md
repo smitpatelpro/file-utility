@@ -11,7 +11,7 @@ it is a python3 based utility to get summary or specific characters from input f
 
 `-l` filename  Display number of lines present in input file
 
-`-c` filename  Display number of character present in input file
+`-c` filename  Display number of character present in input file. it only count alphabet characters and ignore all other characters including newlines, spaces, numbers etc.
 
 `-w` filename  Display number of words in a input file
 
