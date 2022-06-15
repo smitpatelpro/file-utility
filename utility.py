@@ -1,9 +1,9 @@
-'''
-Utility to print file contents in given format
-Only single commandline option is allowed from -l, -c, -w, -n, -a
-For help, use option -h
-'''
 if __name__ == '__main__':
+    '''
+    Utility to print file contents in given format
+    Only single commandline option is allowed from -l, -c, -w, -n, -a
+    For help, use option -h
+    '''
     import argparse
 
     parser = argparse.ArgumentParser(description='File Utility')
